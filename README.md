@@ -17,7 +17,7 @@
 
 ## 🖼️ REA Studio Preview
 
-![REA Studio Preview](./public/backgrounds/monolith-skull.jpg)
+![REA Studio Preview](https://raw.githubusercontent.com/vampireanshuman/rea-studio/main/public/backgrounds/monolith-skull.jpg)
 
 ---
 
