@@ -1,16 +1,35 @@
 {
   "name": "rea-studio",
   "version": "1.0.0",
-  "description": "",
+  "description": "Next-generation desktop reverse-engineering & architecture visualization studio for Electron & Node.js applications with 120+ FPS Liquid Glass UI and Gemini AI Copilot.",
   "main": "electron-main.js",
   "scripts": {
     "start": "electron .",
     "start:web": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "electron",
+    "reverse-engineering",
+    "static-analysis",
+    "architecture-visualization",
+    "ast-analyzer",
+    "liquid-glass",
+    "security-audit",
+    "gemini-copilot",
+    "ipc-tracer",
+    "decompilation"
+  ],
+  "author": "Anshuman <https://github.com/vampireanshuman>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vampireanshuman/rea-studio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vampireanshuman/rea-studio/issues"
+  },
+  "homepage": "https://github.com/vampireanshuman/rea-studio#readme",
   "type": "commonjs",
   "dependencies": {
     "@electron/asar": "^4.3.1",
