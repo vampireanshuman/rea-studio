@@ -1,7 +1,8 @@
 # REA Studio ⚡
 
 <p align="center">
-  <strong>Next-Generation Desktop Reverse-Engineering & Architecture Visualization Studio for Electron & Node.js</strong>
+  <strong>Next-Generation Desktop Reverse-Engineering & Archite<img width="1920" height="1080" alt="Screenshot 2026-10-17 130952" src="https://github.com/user-attachments/assets/18e8d482-234b-4be8-9097-3964bf5b8628" />
+cture Visualization Studio for Electron & Node.js</strong>
 </p>
 
 <p align="center">
