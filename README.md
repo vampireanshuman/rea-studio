@@ -15,6 +15,12 @@
 
 ---
 
+## 🖼️ REA Studio Preview
+
+![REA Studio Preview](./public/backgrounds/monolith-skull.jpg)
+
+---
+
 ## 🌟 Overview
 
 **REA Studio** is an open-source, hardware-accelerated desktop workstation designed for security researchers, reverse engineers, and full-stack developers. It visualizes the internal architecture of complex Electron, Node.js, and JavaScript applications into interactive live dependency graphs, security heatmaps, and IPC execution flows.
